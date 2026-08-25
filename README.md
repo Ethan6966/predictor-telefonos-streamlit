@@ -5,7 +5,7 @@ usando un modelo de clasificacion entrenado con scikit-learn.
 
 ## Aplicacion en linea
 
-**https://PON-AQUI-TU-URL.onrender.com**
+**[https://PON-AQUI-TU-URL.onrender.com](https://predictor-telefonos-streamlit.onrender.com/)**
 
 > Nota: el servicio esta en el plan gratuito de Render, por lo que se suspende tras unos
 > minutos sin uso. La primera carga puede tardar entre 30 y 60 segundos mientras despierta.
